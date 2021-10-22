@@ -1,6 +1,6 @@
 > 어디선가 유입이 자꾸 들어오고 있는것같은데.. 혹시 시간 되신다면 어디쪽 링크 통해서 들어오셨는지 기재 부탁드리겠습니다. [어떻게 엄랭을 발견하셨나요..!](https://github.com/rycont/umjunsik-lang/issues/1)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-10-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/rycont/umjunsik-lang)
@@ -28,6 +28,8 @@
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/adp-study"><img src="https://avatars.githubusercontent.com/u/59760424?v=4?s=100" width="100px;" alt=""/><br /><sub><b>adp-study</b></sub></a><br /><a href="#infra-adp-study" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/rycont/umjunsik-lang/issues?q=author%3Aadp-study" title="Bug reports">🐛</a></td>
+    <td align="center"><a href="https://www.youtube.com/c/noname0310"><img src="https://avatars.githubusercontent.com/u/48761044?v=4?s=100" width="100px;" alt=""/><br /><sub><b>noname</b></sub></a><br /><a href="https://github.com/rycont/umjunsik-lang/commits?author=noname0310" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/TralocDheckoa"><img src="https://avatars.githubusercontent.com/u/42158095?v=4?s=100" width="100px;" alt=""/><br /><sub><b>TralocDheckoa</b></sub></a><br /><a href="https://github.com/rycont/umjunsik-lang/commits?author=TralocDheckoa" title="Code">💻</a></td>
   </tr>
 </table>
 
@@ -138,6 +140,8 @@
 - [노드JS](https://github.com/rycont/umjunsik-lang/tree/master/umjunsik-lang-node) : Deno 구현체의 NodeJS 포트버전입니다.
 - [파이썬](https://github.com/rycont/umjunsik-lang/tree/master/umjunsik-lang-python)
 - [웹-엄](https://github.com/rycont/umjunsik-lang/tree/master/umjunsik-lang-web) : PMH님이 [호스팅해주시고 있습니다🎉](https://static.pmh.codes/umjunsik-lang/umjunsik-lang-web/)
+- [C](https://github.com/rycont/umjunsik-lang/tree/master/umjunsik-lang-cc)
+- [C#](https://github.com/rycont/umjunsik-lang/tree/master/umjunsik-lang-csharp)
 
 # 예제
 
@@ -169,3 +173,4 @@
 - 20201017 : 엄랭v2-파이썬 구현체 배포 by [Steve28](https://github.com/pl-Steve28-lq)
 - 20201105 : 웹-엄: 자바스크립트로 된 엄랭 처리기(웹런타임) 배포 by [PMH](https://github.com/pmh-only)
 - 20210530 : 엄씨(엄랭-C 컴파일러) 배포 by [Rok](https://github.com/Rokr0k)
+- 20210809 : 엄랭 C# 구현체 배포 by [noname0310](https://github.com/noname0310)
